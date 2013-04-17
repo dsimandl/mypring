@@ -27,6 +27,7 @@ coverage==3.6
 cssselect==0.7.1
 decorator==3.4.0
 guess-language==0.2
+gunicorn==0.17.2
 howdoi==0.2
 httpie==0.3.1
 include-server==3.1-toolwhip.1
