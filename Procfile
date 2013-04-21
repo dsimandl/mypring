@@ -1,1 +1,1 @@
-web: gunicorn surmandlsite:app
+web: gunicorn mypring:app
